@@ -1,0 +1,17 @@
+student:
+liamoore@gmail.com
+ellie@gmail.com
+sean@gmail.com
+
+
+mentor:
+steven@gmail.com
+daniel@gmail.com
+
+
+university:
+harboruni@gmail.com
+
+
+password for all the email above:
+Password@123
